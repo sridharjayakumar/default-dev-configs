@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/aem-dev-defaults"/>
+
+
+
+    <filter root="/etc/designs/aem-default-dev-configurations">
+        <include pattern="/etc/designs/aem-default-dev-configurations/jcr:content"/>
+
+    </filter>
+
+</workspaceFilter>
